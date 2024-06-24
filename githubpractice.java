@@ -18,7 +18,7 @@ public class githubpractice implements Runnable{
 
         if (m.matches()) {
             System.out.println("name hotdog");
-            System.out.println("name hamburger");
+            System.out.println("name hotdog");
         }else{
             System.out.println("name not");
         }
