@@ -17,7 +17,7 @@ public class githubpractice implements Runnable{
         Matcher m = p.matcher(name);
 
         if (m.matches()) {
-            System.out.println("name valid");
+            System.out.println("name hotdog");
         }else{
             System.out.println("name not");
         }
