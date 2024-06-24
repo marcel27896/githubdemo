@@ -3,7 +3,7 @@ import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 
 public class githubpractice implements Runnable{
-
+//this is for demo purposes
     public static void main(String[] args) {
         githubpractice prac = new githubpractice();
         Thread t = new Thread(prac);
