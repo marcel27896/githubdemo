@@ -26,5 +26,6 @@ public class githubpractice implements Runnable{
     @Override
     public void run(){
         System.out.println("hello world");
-    }
+        System.out.println("this is fuckin text");
+ }
 }
