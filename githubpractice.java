@@ -1,6 +1,9 @@
+import java.util.Scanner;
 public class githubpractice {
 
     public static void main(String[] args) {
-        System.out.println("this is the fuckin main branch");
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("What is your name ");
+            String name = scanner.nexliLine();
     }
 }
